@@ -1,0 +1,10 @@
+My First Repository.
+#include<iostream>
+using namespace std;
+void main()
+{
+  int a;
+  cout<<"Enter Your Name:";
+  cin>>a;
+}
+ OUTPUT: Enter Your Name: Minahil
