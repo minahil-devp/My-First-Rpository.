@@ -3,7 +3,7 @@ My First Repository.
 using namespace std;
 void main()
 {
-  int a;
+  char a;
   cout<<"Enter Your Name:";
   cin>>a;
 }
