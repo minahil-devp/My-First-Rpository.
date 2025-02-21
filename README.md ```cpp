@@ -3,8 +3,8 @@ My First Repository.
 using namespace std;
 void main()
 {
-  char a;
+  char 'a';
   cout<<"Enter Your Name:";
-  cin>>a;
+  cin>>'a';
 }
  OUTPUT: Enter Your Name: Minahil
